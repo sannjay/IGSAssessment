@@ -7,5 +7,6 @@ Assessment Project for IGS
 - Open GitHub and clone the project from https://github.com/sannjay/IGSAssessment
 - Open the project in eclipse
 - Build the project with maven
-- Run feature file with Cucumber.feature
-- Observe the console for the output results
+- Use below path to trigger execution with junit run
+/src/test/java/StepDefinations/runTest.java
+- Find the latest html report under target folder
